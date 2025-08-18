@@ -2,9 +2,7 @@
 <h3 align="center">A passionate FullStack Software Developer from Ethiopia</h3>
 
 
-- 🔭 I’m currently working on **my internship at ProdigyInfoTech**
-
-- 🌱 I’m currently learning **Next.js for building fast, SEO-friendly React applications and .NET frameworks for developing robust backend services and enterprise-level applications.**
+- 🌱 I’m currently learning **Full-Stack Development Using Mern Stack**
 
 - 👯 I’m looking to collaborate on **any type of software development projects**
 
