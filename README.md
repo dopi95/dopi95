@@ -78,7 +78,7 @@
 ### 🌍 Portfolio  
 <a href="https://elyasyenealem.netlify.app" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portfolio"/>  
-  **elyasyenealem.netlify.app**
+  elyasyenealem.netlify.app
 </a>
 
 ---
@@ -86,7 +86,7 @@
 ### 💼 LinkedIn  
 <a href="https://www.linkedin.com/in/elyas-yenealem-01572b359/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>  
-  **Elyas Yenealem**
+  Elyas Yenealem
 </a>
 
 ---
@@ -94,7 +94,7 @@
 ### 📷 Instagram  
 <a href="https://www.instagram.com/el_yas_21/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>  
-  **@el_yas_21**
+  @el_yas_21
 </a>
 
 ---
@@ -102,7 +102,7 @@
 ### 📧 Email  
 <a href="mailto:elyasyenealem@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>  
-  **elyasyenealem@gmail.com**
+  elyasyenealem@gmail.com
 </a>
 
 ---
