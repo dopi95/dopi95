@@ -1,13 +1,25 @@
-# 👋 Hi, I'm Elyas
+<!-- Profile README for Elyas -->
 
-`Software Developer — Frontend — Backend — Fullstack`
+<h1 align="center">👋 Hi, I'm Elyas</h1>
 
-🚀 I build scalable web apps with modern UI/UX and efficient backend systems.  
-💡 Always learning, improving, and exploring new technologies.  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Developer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 👨‍💻 About Me  
+
+💡 Passionate **Software Developer** focused on building scalable, user-friendly web applications.  
+🌱 Skilled across **Frontend, Backend, and Fullstack development**.  
+⚡ I love solving problems, designing modern UIs, and optimizing backend systems.  
+🚀 Exploring **cloud hosting, DevOps, and system architecture**.  
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
@@ -24,49 +36,62 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### Languages
+### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Databases
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
 - [🏥 Biruh Kids Clinic](https://biruhkidsclinic.com) – Pediatric clinic website with online registration system  
-- [🏡 Ghion Homes](https://github.com/dopi95/GhionHomes) – Real estate website with property management system  
-- [💼 My Portfolio](https://elyasyenealem.netlify.app) – Personal portfolio showcasing my projects  
+- [🏡 Ghion Homes](https://ghionhomessales.com) – Real estate website with property management system  
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://elyasyenealem.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elyas-yenealem-01572b359/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/el_yas_21/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/elyas-yenealem-01572b359/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:elyasyenealem@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://elyasyenealem.netlify.app" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
