@@ -75,27 +75,35 @@
 
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/elyas-yenealem-01572b359/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/><br/>
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram"/><br/>
-    Instagram
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:elyasyenealem@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/><br/>
-    Email
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" alt="Portfolio"/><br/>
-    Portfolio
-  </a>
-</p>
+### 🌍 Portfolio  
+<a href="https://elyasyenealem.netlify.app" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portfolio"/>  
+  **elyasyenealem.netlify.app**
+</a>
+
+---
+
+### 💼 LinkedIn  
+<a href="https://www.linkedin.com/in/elyas-yenealem-01572b359/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>  
+  **Elyas Yenealem**
+</a>
+
+---
+
+### 📷 Instagram  
+<a href="https://www.instagram.com/el_yas_21/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>  
+  **@el_yas_21**
+</a>
+
+---
+
+### 📧 Email  
+<a href="mailto:elyasyenealem@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>  
+  **elyasyenealem@gmail.com**
+</a>
 
 ---
 
