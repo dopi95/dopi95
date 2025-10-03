@@ -57,15 +57,17 @@
 
 - [🏥 Biruh Kids Clinic](https://biruhkidsclinic.com) – Pediatric clinic website with online registration system  
 - [🏡 Ghion Homes](https://github.com/dopi95/GhionHomes) – Real estate website with property management system  
-- [💼 My Portfolio](https://github.com/dopi95/My-Portfolio) – Personal portfolio showcasing my projects  
+- [💼 My Portfolio](https://elyasyenealem.netlify.app) – Personal portfolio showcasing my projects  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://elyasyenealem.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elyas-yenealem-01572b359/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/el_yas_21/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
 
 ---
+
 ✨ *Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you like my work.*  
