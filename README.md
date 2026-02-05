@@ -76,15 +76,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/dopi95?style=for-the-badge&label=Stars&color=ff69b4" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/dopi95?style=for-the-badge&label=Forks&color=1abc9c" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/dopi95?style=for-the-badge&label=Issues&color=ff4500" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/watchers/dopi95?style=for-the-badge&label=Watchers&color=00aced" alt="GitHub Watchers" />
+  <!-- Full Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=radical" alt="Elyas's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=7b68ee&label=Top%20Language" alt="Top Language" />
-  <img src="https://img.shields.io/github/languages/count/dopi95?style=for-the-badge&color=20b2aa&label=Languages" alt="Languages Count" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" alt="Elyas's Top Languages" />
 </p>
 
 ---
