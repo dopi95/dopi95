@@ -1,56 +1,71 @@
+<h1 align="center">Hi 👋, I'm Elyas</h1>
+<h3 align="center">Full-Stack Software Developer</h3>
 
-# 👋 Hi, I'm Elyas
-
-🚀 **Software Developer** | Frontend & Backend  
-I build modern, scalable, and user-friendly web applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💡 Passionate about clean code and modern web technologies  
-- 🌍 Focused on full-stack development  
-- ⚡ Always learning and improving  
-- 🤝 Open to collaboration and freelance projects  
+- 💻 Full-stack developer specializing in modern web technologies  
+- ⚛️ Experienced in frontend & backend development  
+- 🚀 Focused on performance, scalability, and clean architecture  
+- 🤝 Open to collaboration and professional opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- ⚛️ React
-- ⚡ Next.js
-- 🟦 TypeScript
-- 🟨 JavaScript
-- 🎨 HTML5, CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" />
+</p>
 
 ### Backend
-- 🟩 Node.js
-- 🚂 Express.js
-- 🐘 PHP
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Elyas GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🚀 What I’m Working On
+## 🔥 GitHub Contribution Streak
 
-- Full-stack web applications  
-- Next.js projects with modern UI  
-- REST APIs and backend services  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building full-stack applications with **Next.js & Node.js**
+- Creating scalable REST APIs
+- Writing clean, maintainable TypeScript code
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- 📧 Email: your-email@example.com  
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!**
+⭐ **Feel free to explore my repositories and give a star if you like my work!**
