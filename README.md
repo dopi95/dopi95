@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Elyas" alt="Typing SVG"/>
 </h1>
-<h3 align="center">Full-Stack Software Developer | MERN & PHP | Frontend & Backend</h3>
+<h3 align="center">Full-Stack Developer | MERN & PHP | Frontend & Backend</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile+Views&style=flat" />
@@ -9,24 +9,34 @@
 
 ---
 
-## 💬 About Me
+## 💬 About Me & Tech
 
-<p align="center">
-  I'm Elyas, a passionate Full-Stack Developer who loves turning ideas into real web applications.  
-  I enjoy building efficient, scalable, and beautiful apps with modern technologies.
-</p>
+<table width="100%">
+  <tr>
+    <!-- About Me Left -->
+    <td width="60%" valign="top">
+      <p>
+        Hello! I'm <b>Elyas</b>, a passionate Full-Stack Developer dedicated to creating beautiful and efficient web applications.  
+        I love turning ideas into fully functional products and enjoy working on both frontend and backend development.  
+        Whether it's building responsive interfaces or designing scalable server architectures, my goal is to deliver high-quality solutions that make an impact.
+      </p>
+      
+      <p>
+        <b>Tech Stack:</b>
+      </p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html" />  
+        React &nbsp; Next.js &nbsp; TypeScript &nbsp; JavaScript &nbsp; Tailwind CSS &nbsp; HTML5
+      </p>
+    </td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="300"/>
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,mongodb,postgres,mysql,vercel,netlify,docker,git,figma,vs-code,notion" />
-</p>
+    <!-- Animated Coder Right -->
+    <td width="40%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coder with Coffee Animation" width="250"/>
+      <p style="font-size:12px;color:gray;">Sitting, coding with coffee ☕💻</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
