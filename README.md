@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Elyas</h1>
-<h3 align="center">Full-Stack Software Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Elyas" alt="Typing SVG"/>
+</h1>
+<h3 align="center">Full-Stack Software Developer | Frontend & Backend | MERN & PHP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile%20Views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile+Views&style=flat" />
 </p>
 
 ---
@@ -41,11 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -53,7 +55,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dopi95&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
 </p>
 
 ---
