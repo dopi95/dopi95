@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Elyas" alt="Typing SVG"/>
 </h1>
-<h3 align="center">Full-Stack Software Developer | MERN & PHP | Frontend & Backend</h3>
+<h3 align="center">Full-Stack Software Developer | Frontend & Backend | MERN & PHP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile+Views&style=flat" />
@@ -9,23 +9,33 @@
 
 ---
 
-## 💬 About Me
+## 🛠️ Skills
 
+### Frontend
 <p align="center">
-  I'm Elyas, a passionate Full-Stack Developer who loves turning ideas into real web applications.  
-  I enjoy building efficient, scalable, and beautiful apps with modern technologies.
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
 </p>
 
+### Backend
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="300"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
 </p>
 
----
-
-## 🛠️ Tech Stack & Tools
-
+### Deployment & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,php,mongodb,postgres,mysql,vercel,netlify,docker,git,figma,vs-code,notion" />
+  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> Figma
 </p>
 
 ---
@@ -66,10 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Full Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=radical" alt="Elyas's GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" alt="Elyas's Top Languages" />
 </p>
 
@@ -105,4 +117,4 @@
 
 ---
 
-⭐ **Check out my repositories and feel free to star them!**
+⭐ **Check out my repositories and feel free to star them!**   add a simple about me texts then animate person with code he is coding like to the right and list the tech stack and tool in one change the icon remove the text and make the icon a perfct icon with tetxt perfcet icon that has icon and in teck stack and tool add please postegres sql my sql mongodb vs code notion....
