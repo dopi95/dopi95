@@ -76,13 +76,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Full Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true" alt="Elyas's GitHub Stats" />
+  ![GitHub stars](https://img.shields.io/github/stars/dopi95?style=for-the-badge&label=Stars&color=ff69b4)
+  &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/dopi95?style=for-the-badge&label=Forks&color=1abc9c)
+  &nbsp;
+  ![GitHub issues](https://img.shields.io/github/issues/dopi95?style=for-the-badge&label=Issues&color=ff4500)
+  &nbsp;
+  ![GitHub watchers](https://img.shields.io/github/watchers/dopi95?style=for-the-badge&label=Watchers&color=00aced)
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" alt="Elyas's Top Languages" />
+  ![Top Languages](https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=7b68ee&label=Top%20Language)
+  &nbsp;
+  ![Languages Count](https://img.shields.io/github/languages/count/dopi95?style=for-the-badge&color=20b2aa&label=Languages)
 </p>
 
 ---
