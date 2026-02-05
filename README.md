@@ -1,110 +1,91 @@
-<!-- Profile README for Elyas -->
+# 🚀 Team Portfolio
 
-<h1 align="center">👋 Hi, I'm Elyas</h1>
+Welcome to the **Team Portfolio** repository of **YOUR_ORG_NAME**.  
+We are a tech team focused on building modern, scalable, and user-friendly web applications.
+
+---
+
+## 👥 About Us
+
+We design and develop high-quality web solutions using modern technologies.  
+Our goal is to deliver clean code, great UI/UX, and real-world products.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- **Next.js**
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express
+- NestJS
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### Tools & Platforms
+- Git & GitHub
+- Figma
+- Vercel
+- Netlify
+
+---
+
+## 🚀 Projects
+
+- **Team Portfolio Website** – Next.js, Tailwind CSS  
+- **Admin Dashboard** – React, API Integration  
+- **Landing Pages** – Responsive & SEO-friendly  
+- **Full-Stack Web Apps** – MERN / NestJS Stack
+
+---
+
+## 🌍 Live Demo
+
+🔗 https://your-portfolio-link.vercel.app
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Developer;Backend+Developer;Fullstack+Developer" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🤝 Contributing
 
-💡 Passionate **Software Developer** focused on building scalable, user-friendly web applications.  
-🌱 Skilled across **Frontend, Backend, and Fullstack development**.  
-⚡ I love solving problems, designing modern UIs, and optimizing backend systems.  
-🚀 Exploring **cloud hosting, DevOps, and system architecture**.  
+We welcome contributions from team members.
+Please create a new branch, submit a pull request, and follow our coding standards.
 
 ---
 
-## 📊 GitHub Analytics  
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dopi95&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- Email: your@email.com
 
 ---
 
-## 🛠️ Tech Stack  
+## 📄 License
 
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📌 Featured Projects  
-
-- [🏥 Biruh Kids Clinic](https://biruhkidsclinic.com) – Pediatric clinic website with online registration system  
-- [🏡 Ghion Homes](https://ghionhomessales.com) – Real estate website with property management system  
-
----
-
-## 🌐 Connect with Me  
-
-### 🌍 Portfolio  
-<a href="https://elyasyenealem.netlify.app" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portfolio"/>  
-  elyasyenealem.netlify.app
-</a>
-
----
-
-### 💼 LinkedIn  
-<a href="https://www.linkedin.com/in/elyas-yenealem-01572b359/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>  
-  Elyas Yenealem
-</a>
-
----
-
-### 📷 Instagram  
-<a href="https://www.instagram.com/el_yas_21/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram"/>  
-  @el_yas_21
-</a>
-
----
-
-### 📧 Email  
-<a href="mailto:elyasyenealem@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>  
-  elyasyenealem@gmail.com
-</a>
-
----
-
-✨ *Thanks for visiting my profile! Feel free to check out my repositories and leave a ⭐ if you like my work.*  
+This project is licensed under the **MIT License**.
