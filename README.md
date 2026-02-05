@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
 </p>
 
-### Deployment / Tools
+### Deployment & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
@@ -38,14 +38,20 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=tokyonight" />
+  <!-- Stars / Forks / Issues / Watchers -->
+  ![GitHub stars](https://img.shields.io/github/stars/dopi95?style=for-the-badge&label=Stars&color=ff69b4) &nbsp;
+  ![GitHub forks](https://img.shields.io/github/forks/dopi95?style=for-the-badge&label=Forks&color=1abc9c) &nbsp;
+  ![GitHub issues](https://img.shields.io/github/issues/dopi95?style=for-the-badge&label=Issues&color=ff4500) &nbsp;
+  ![GitHub watchers](https://img.shields.io/github/watchers/dopi95?style=for-the-badge&label=Watchers&color=00aced)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=tokyonight" />
+  <!-- Top Languages -->
+  ![Top Languages](https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=7b68ee&label=Top%20Language) &nbsp;
+  ![Languages Count](https://img.shields.io/github/languages/count/dopi95?style=for-the-badge&color=20b2aa&label=Languages)
 </p>
 
 ---
@@ -53,16 +59,18 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dopi95&theme=tokyonight" />
+  ![GitHub Streak](https://img.shields.io/badge/Contribution-Streak%20🔥%20Active-green?style=for-the-badge)
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-- [BiruhKidsClinic.com](https://biruhkidsclinic.com) - Healthcare website  
-- [GhionHomeSales.com](https://ghionhomessales.com) - Real estate platform  
-- [NovaStudio.et](https://novastudio.et) - Creative agency portfolio  
+<p align="center">
+  <a href="https://biruhkidsclinic.com" target="_blank">BiruhKidsClinic.com</a> - Healthcare website <br/>
+  <a href="https://ghionhomessales.com" target="_blank">GhionHomeSales.com</a> - Real estate platform <br/>
+  <a href="https://novastudio.et" target="_blank">NovaStudio.et</a> - Creative agency portfolio
+</p>
 
 ---
 
