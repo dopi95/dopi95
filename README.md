@@ -43,20 +43,52 @@
 ## 💼 Featured Projects
 
 <p align="center">
-  <a href="https://biruhkidsclinic.com" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>BiruhKidsClinic.com</b> <br/>
-    <i>Healthcare website providing child care info and clinic services efficiently.</i>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ghionhomessales.com" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>GhionHomeSales.com</b> <br/>
-    <i>Real estate platform for buying, selling, and listing residential properties easily.</i>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://novastudio.et" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>NovaStudio.et</b> <br/>
-    <i>Creative agency portfolio showcasing projects, clients, and design expertise.</i>
-  </a>
+  <table>
+    <tr>
+      <td align="left">
+        <a href="https://biruhkidsclinic.com" target="_blank"><b>BiruhKidsClinic.com</b></a>
+      </td>
+      <td align="right">
+        Healthcare website providing child care info and clinic services efficiently.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://ghionhomessales.com" target="_blank"><b>GhionHomeSales.com</b></a>
+      </td>
+      <td align="right">
+        Real estate platform for buying, selling, and listing residential properties easily.
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://novastudio.et" target="_blank"><b>NovaStudio.et</b></a>
+      </td>
+      <td align="right">
+        Creative agency portfolio showcasing projects, clients, and design expertise.
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
 </p>
 
 ---
@@ -79,26 +111,6 @@
   <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;">
     <img src="https://skillicons.dev/icons?i=portfolio" /> Portfolio
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
 </p>
 
 ---
