@@ -11,17 +11,26 @@
 
 ## 🛠️ Skills
 
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
   <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;
   <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
+</p>
+
+### Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
   <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
   <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+</p>
+
+### Deployment & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
@@ -35,15 +44,18 @@
 
 <p align="center">
   <a href="https://biruhkidsclinic.com" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>BiruhKidsClinic.com</b>
+    <img src="https://skillicons.dev/icons?i=website" /> <b>BiruhKidsClinic.com</b> <br/>
+    <i>Healthcare website providing child care info and clinic services efficiently.</i>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ghionhomessales.com" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>GhionHomeSales.com</b>
+    <img src="https://skillicons.dev/icons?i=website" /> <b>GhionHomeSales.com</b> <br/>
+    <i>Real estate platform for buying, selling, and listing residential properties easily.</i>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://novastudio.et" target="_blank" style="text-decoration:none; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=website" /> <b>NovaStudio.et</b>
+    <img src="https://skillicons.dev/icons?i=website" /> <b>NovaStudio.et</b> <br/>
+    <i>Creative agency portfolio showcasing projects, clients, and design expertise.</i>
   </a>
 </p>
 
