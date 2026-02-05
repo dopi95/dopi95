@@ -76,11 +76,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true" />
+  <!-- Full Stats Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dopi95&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="Elyas's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical&hide_title=false" alt="Elyas's Top Languages" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical&hide_border=false" alt="Elyas's GitHub Streak" />
 </p>
 
 ---
