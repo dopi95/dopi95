@@ -7,21 +7,33 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
   <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;
   <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
+</p>
+
+### Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
   <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
   <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+</p>
+
+### Deployment / Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" /> Figma
 </p>
 
 ---
@@ -73,4 +85,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star!**
+⭐ **Check out my repositories and feel free to star them!**
