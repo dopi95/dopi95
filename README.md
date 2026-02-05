@@ -2,17 +2,17 @@
 <h3 align="center">Full-Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elyasdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full-stack developer specializing in modern web technologies  
-- ⚛️ Experienced in frontend & backend development  
-- 🚀 Focused on performance, scalability, and clean architecture  
-- 🤝 Open to collaboration and professional opportunities  
+- 💻 Full-stack web developer  
+- ⚛️ Frontend & backend specialist  
+- 🚀 Passionate about clean code & performance  
+- 🤝 Open to collaboration  
 
 ---
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elyasdev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyasdev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -42,30 +42,19 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=elyasdev&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Current Focus
-
-- Building full-stack applications with **Next.js & Node.js**
-- Creating scalable REST APIs
-- Writing clean, maintainable TypeScript code
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/elyasdev">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star if you like my work!**
+⭐ **Check out my repositories and feel free to star them**
