@@ -76,19 +76,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub stars](https://img.shields.io/github/stars/dopi95?style=for-the-badge&label=Stars&color=ff69b4)
-  &nbsp;
-  ![GitHub forks](https://img.shields.io/github/forks/dopi95?style=for-the-badge&label=Forks&color=1abc9c)
-  &nbsp;
-  ![GitHub issues](https://img.shields.io/github/issues/dopi95?style=for-the-badge&label=Issues&color=ff4500)
-  &nbsp;
-  ![GitHub watchers](https://img.shields.io/github/watchers/dopi95?style=for-the-badge&label=Watchers&color=00aced)
+  <img src="https://img.shields.io/github/stars/dopi95?style=for-the-badge&label=Stars&color=ff69b4" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/dopi95?style=for-the-badge&label=Forks&color=1abc9c" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/dopi95?style=for-the-badge&label=Issues&color=ff4500" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/watchers/dopi95?style=for-the-badge&label=Watchers&color=00aced" alt="GitHub Watchers" />
 </p>
 
 <p align="center">
-  ![Top Languages](https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=7b68ee&label=Top%20Language)
-  &nbsp;
-  ![Languages Count](https://img.shields.io/github/languages/count/dopi95?style=for-the-badge&color=20b2aa&label=Languages)
+  <img src="https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=7b68ee&label=Top%20Language" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/count/dopi95?style=for-the-badge&color=20b2aa&label=Languages" alt="Languages Count" />
 </p>
 
 ---
