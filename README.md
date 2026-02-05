@@ -20,10 +20,8 @@
         I love turning ideas into fully functional products and enjoy working on both frontend and backend development.  
         Whether it's building responsive interfaces or designing scalable server architectures, my goal is to deliver high-quality solutions that make an impact.
       </p>
-      
-      <p>
-        <b>Tech Stack:</b>
-      </p>
+
+      <p><b>Tech Stack:</b></p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html" />  
         React &nbsp; Next.js &nbsp; TypeScript &nbsp; JavaScript &nbsp; Tailwind CSS &nbsp; HTML5
@@ -42,34 +40,32 @@
 
 ## 💼 Featured Projects
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <a href="https://biruhkidsclinic.com" target="_blank"><b>BiruhKidsClinic.com</b></a>
-      </td>
-      <td align="right">
-        Healthcare website providing child care info and clinic services efficiently.
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://ghionhomessales.com" target="_blank"><b>GhionHomeSales.com</b></a>
-      </td>
-      <td align="right">
-        Real estate platform for buying, selling, and listing residential properties easily.
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://novastudio.et" target="_blank"><b>NovaStudio.et</b></a>
-      </td>
-      <td align="right">
-        Creative agency portfolio showcasing projects, clients, and design expertise.
-      </td>
-    </tr>
-  </table>
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://biruhkidsclinic.com" target="_blank"><b>BiruhKidsClinic.com</b></a>
+    </td>
+    <td align="right">
+      Healthcare website providing child care info and clinic services efficiently.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://ghionhomessales.com" target="_blank"><b>GhionHomeSales.com</b></a>
+    </td>
+    <td align="right">
+      Real estate platform for buying, selling, and listing residential properties easily.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://novastudio.et" target="_blank"><b>NovaStudio.et</b></a>
+    </td>
+    <td align="right">
+      Creative agency portfolio showcasing projects, clients, and design expertise.
+    </td>
+  </tr>
+</table>
 
 ---
 
