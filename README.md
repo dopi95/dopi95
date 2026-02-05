@@ -13,29 +13,82 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;<br/>
   <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
 </p>
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;<br/>
   <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
 </p>
 
 ### Deployment & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;<br/>
+  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;<br/>
   <img src="https://skillicons.dev/icons?i=figma" /> Figma
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+  <a href="https://biruhkidsclinic.com" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=website" /> <b>BiruhKidsClinic.com</b> <br/>
+    <i>Healthcare website</i>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ghionhomessales.com" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=website" /> <b>GhionHomeSales.com</b> <br/>
+    <i>Real estate platform</i>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://novastudio.et" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=website" /> <b>NovaStudio.et</b> <br/>
+    <i>Creative agency portfolio</i>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:elyasyenealem@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" /> Email
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" /> Instagram
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dopi95" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" /> GitHub
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://elyasyenealem.netlify.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=portfolio" /> Portfolio
+  </a>
 </p>
 
 ---
@@ -56,35 +109,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-<p align="center">
-  <a href="https://biruhkidsclinic.com" target="_blank">BiruhKidsClinic.com</a> - Healthcare website <br/>
-  <a href="https://ghionhomessales.com" target="_blank">GhionHomeSales.com</a> - Real estate platform <br/>
-  <a href="https://novastudio.et" target="_blank">NovaStudio.et</a> - Creative agency portfolio
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:elyasyenealem@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /> Email
-  </a> &nbsp; | &nbsp;
-  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" /> Instagram
-  </a> &nbsp; | &nbsp;
-  <a href="https://github.com/dopi95" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" /> GitHub
-  </a> &nbsp; | &nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=portfolio" /> Portfolio
-  </a>
 </p>
 
 ---
