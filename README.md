@@ -16,7 +16,6 @@
 
 <div style="
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
@@ -24,55 +23,36 @@
   padding: 20px;
 ">
 
+  <!-- Animation GIF -->
+  <div style="
+    flex: 1 1 300px;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    order: 0;
+  ">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
+  </div>
+
   <!-- About Text -->
   <div style="
-    flex: 1;
-    min-width: 300px;
+    flex: 1 1 300px;
     max-width: 500px;
     text-align: left;
     font-size: 16px;
     line-height: 1.6;
+    order: 1;
   ">
     <p>
       I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
     </p>
-    <ul style="padding-left: 20px;">
+    <ul style="padding-left:20px;">
       <li>Real production project experience</li>
       <li>Clean UI & optimized backend</li>
       <li>Always learning new stacks & tools</li>
     </ul>
   </div>
 
-  <!-- Animation GIF -->
-  <div style="
-    flex: 1;
-    min-width: 250px;
-    max-width: 300px;
-    display: flex;
-    justify-content: center;
-  ">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
-  </div>
-
-</div>
-
-<!-- Responsive fix for mobile -->
-<div style="display:none;">
-  <style>
-    @media (max-width: 768px) {
-      div[style*='display: flex'] {
-        flex-direction: column !important;
-        text-align: center !important;
-      }
-      div[style*='display: flex'] div:first-child {
-        order: 2 !important; /* Text below GIF */
-      }
-      div[style*='display: flex'] div:last-child {
-        order: 1 !important; /* GIF on top */
-        margin-bottom: 20px;
-      }
-    }
-  </style>
 </div>
 
 
