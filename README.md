@@ -11,21 +11,48 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-I’m a passionate full‑stack developer who enjoys building modern, fast and clean web applications. I love transforming ideas into real products, solving problems and continuously learning new technologies to improve performance and user experience.
-</p>
+<table width="100%">
+<tr>
+<td width="55%">
+I’m a passionate full‑stack developer who loves building modern, scalable and clean web applications. I enjoy transforming ideas into real products, solving real‑world problems and continuously learning new technologies to improve performance and user experience.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" />
-</p>
+* Focused on real production projects
+* Clean UI & fast backend performance
+* Always learning new stacks & tools
+
+</td>
+<td width="45%" align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ Tech Stack
+
+### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mongodb,postgres,mysql,docker,git,vercel,netlify,figma,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+### 🧠 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🚀 Deployment & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion" />
 </p>
 
 ---
