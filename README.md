@@ -12,45 +12,49 @@
 
 
 
-## 👨‍💻 About Me
+
+    
+   ## 👨‍💻 About Me
 
 <div style="
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   gap: 20px;
   padding: 20px;
 ">
 
-  <!-- Animation GIF -->
-  <div style="
-    flex: 1 1 300px;
-    max-width: 300px;
-    display: flex;
-    justify-content: center;
-    order: 0;
-  ">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
-  </div>
-
   <!-- About Text -->
   <div style="
-    flex: 1 1 300px;
+    flex: 0 1 500px;
     max-width: 500px;
+    min-width: 300px;
     text-align: left;
     font-size: 16px;
     line-height: 1.6;
-    order: 1;
   ">
     <p>
       I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
     </p>
-    <ul style="padding-left:20px;">
+    <ul style="padding-left: 20px;">
       <li>Real production project experience</li>
       <li>Clean UI & optimized backend</li>
       <li>Always learning new stacks & tools</li>
     </ul>
+  </div>
+
+  <!-- Animation GIF -->
+  <div style="
+    flex: 0 1 300px;
+    max-width: 300px;
+    min-width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  ">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
   </div>
 
 </div>
