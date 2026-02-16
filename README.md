@@ -9,91 +9,75 @@
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-### Frontend
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin:10px;" />
+  <div style="max-width:500px; margin:10px;">
+    I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+    <ul>
+      <li>Real production project experience</li>
+      <li>Clean UI & optimized backend</li>
+      <li>Always learning new stacks & tools</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" /> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" /> TypeScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
-### Backend
+### 🧠 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=express" /> Express.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Deployment & Tools
+### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" /> Vercel &nbsp;
-  <img src="https://skillicons.dev/icons?i=netlify" /> Netlify &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" /> Docker &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" /> Figma
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🚀 Deployment & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion&perline=8" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <a href="https://biruhkidsclinic.com" target="_blank"><b>BiruhKidsClinic.com</b></a>
-      </td>
-      <td align="right">
-        Healthcare website providing child care info and clinic services efficiently.
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://ghionhomessales.com" target="_blank"><b>GhionHomeSales.com</b></a>
-      </td>
-      <td align="right">
-        Real estate platform for buying, selling, and listing residential properties easily.
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <a href="https://novastudio.et" target="_blank"><b>NovaStudio.et</b></a>
-      </td>
-      <td align="right">
-        Creative agency portfolio showcasing projects, clients, and design expertise.
-      </td>
-    </tr>
-  </table>
-</p>
+* [KabCreativeLab.com](https://kabcreativelab.com)
+* [BiruhKidsClinic.com](https://biruhkidsclinic.com)
+* [GhionHomeSales.com](https://ghionhomessales.com)
+* [NovaStudio.et](https://novastudio.et)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Full Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=radical" alt="Elyas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" alt="Elyas's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" alt="Elyas's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
 </p>
 
 ---
@@ -102,19 +86,15 @@
 
 <p align="center">
   <a href="mailto:elyasyenealem@gmail.com" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gmail" /> Email
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/el_yas_21/" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" /> Instagram
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/dopi95" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=github" /> GitHub
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=portfolio" /> Portfolio
+    <img src="https://skillicons.dev/icons?i=portfolio" />
   </a>
 </p>
 
