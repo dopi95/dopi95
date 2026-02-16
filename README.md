@@ -46,7 +46,7 @@ I’m a passionate full‑stack developer who loves building modern, scalable an
 ### 🚀 Deployment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion&perline=7" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ I’m a passionate full‑stack developer who loves building modern, scalable an
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/el_yas_21/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portfolio/portfolio-original.svg" width="40" /></a>
+  <a href="https://elyasyenealem.netlify.app" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" width="40" /></a>
 </p>
 
 ---
