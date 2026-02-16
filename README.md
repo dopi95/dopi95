@@ -11,21 +11,19 @@
 
 ## 👨‍💻 About Me
 
-<table width="100%">
-<tr>
-<td width="55%">
+<div align="center">
+
 I’m a passionate full‑stack developer who loves building modern, scalable and clean web applications. I enjoy transforming ideas into real products, solving real‑world problems and continuously learning new technologies to improve performance and user experience.
 
 * Focused on real production projects
 * Clean UI & fast backend performance
 * Always learning new stacks & tools
 
-</td>
-<td width="45%" align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
-</td>
-</tr>
-</table>
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
+
+</div>
 
 ---
 
