@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <div style="max-width:500px; margin:10px; order:2;">
+  <div style="max-width:500px; margin:10px; order:1; text-align:left;">
     I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
     <ul>
       <li>Real production project experience</li>
@@ -20,14 +20,14 @@
       <li>Always learning new stacks & tools</li>
     </ul>
   </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin:10px; order:1;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin:10px; order:2;" />
 </div>
 
 <style>
   @media (max-width: 768px) {
     div[align="center"] { flex-direction: column !important; }
-    div[align="center"] img { order: 1 !important; }
-    div[align="center"] div { order: 2 !important; }
+    div[align="center"] div { order: 1 !important; text-align:center; }
+    div[align="center"] img { order: 2 !important; }
   }
 </style>
 
@@ -102,7 +102,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=portfolio" /> Portfolio
+    <img src="https://skillicons.dev/icons?i=portfolio" />
   </a>
 </p>
 
