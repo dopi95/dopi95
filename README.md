@@ -12,25 +12,42 @@
 
 ## 👨‍💻 About Me
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
-  <div style="max-width:500px; margin:10px; order:1; text-align:left;">
-    I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:20px; padding:20px;">
+  
+  <!-- About Text -->
+  <div style="flex:1; min-width:300px; max-width:500px; text-align:left; font-size:16px; line-height:1.6;">
+    <p>
+      I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+    </p>
     <ul>
       <li>Real production project experience</li>
       <li>Clean UI & optimized backend</li>
       <li>Always learning new stacks & tools</li>
     </ul>
   </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="margin:10px; order:2;" />
+
+  <!-- Animation GIF -->
+  <div style="flex:1; min-width:250px; max-width:300px; display:flex; justify-content:center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
+  </div>
 </div>
 
 <style>
   @media (max-width: 768px) {
-    div[align="center"] { flex-direction: column !important; }
-    div[align="center"] div { order: 1 !important; text-align:center; }
-    div[align="center"] img { order: 2 !important; }
+    div[style*="display:flex"] {
+      flex-direction: column !important;
+      text-align: center !important;
+    }
+    div[style*="display:flex"] div:first-child {
+      text-align: center !important;
+    }
+    div[style*="display:flex"] div:last-child {
+      margin-top: 20px;
+    }
   }
 </style>
+
+      
 
 ---
 
