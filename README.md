@@ -46,4 +46,50 @@ I’m a passionate full‑stack developer who loves building modern, scalable an
 ### 🚀 Deployment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+* [KabCreativeLab.com](https://kabcreativelab.com)
+* [BiruhKidsClinic.com](https://biruhkidsclinic.com)
+* [GhionHomeSales.com](https://ghionhomessales.com)
+* [NovaStudio.et](https://novastudio.et)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&count_private=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:elyasyenealem@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/el_yas_21/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://elyasyenealem.netlify.app" target="_blank"><img src="https://skillicons.dev/icons?i=webflow" /></a>
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and star the ones you like!
