@@ -46,7 +46,7 @@ I’m a passionate full‑stack developer who loves building modern, scalable an
 ### 🚀 Deployment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion" />
 </p>
 
 ---
@@ -83,11 +83,11 @@ I’m a passionate full‑stack developer who loves building modern, scalable an
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:elyasyenealem@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:elyasyenealem@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/el_yas_21/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/el_yas_21/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank"><img src="https://skillicons.dev/icons?i=portfolio" /></a>
+  <a href="https://elyasyenealem.netlify.app" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portfolio/portfolio-original.svg" width="40" /></a>
 </p>
 
 ---
