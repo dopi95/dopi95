@@ -10,11 +10,7 @@
 
 ---
 
-
-
-
-    
-   ## 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <div style="
   display: flex;
@@ -58,9 +54,6 @@
   </div>
 
 </div>
-
-
-      
 
 ---
 
@@ -125,6 +118,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dopi95&theme=radical" />
 </p>
 
 ---
