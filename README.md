@@ -10,16 +10,17 @@
 
 ---
 
-## 👨‍💻 About Me
+
+ ## 👨‍💻 About Me
 
 <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:20px; padding:20px;">
-  
+
   <!-- About Text -->
   <div style="flex:1; min-width:300px; max-width:500px; text-align:left; font-size:16px; line-height:1.6;">
     <p>
       I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
     </p>
-    <ul>
+    <ul style="padding-left:20px;">
       <li>Real production project experience</li>
       <li>Clean UI & optimized backend</li>
       <li>Always learning new stacks & tools</li>
@@ -27,25 +28,12 @@
   </div>
 
   <!-- Animation GIF -->
-  <div style="flex:1; min-width:250px; max-width:300px; display:flex; justify-content:center;">
+  <div style="flex:1; min-width:250px; max-width:300px; display:flex; justify-content:center; margin-top:0;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
   </div>
+  
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    div[style*="display:flex"] {
-      flex-direction: column !important;
-      text-align: center !important;
-    }
-    div[style*="display:flex"] div:first-child {
-      text-align: center !important;
-    }
-    div[style*="display:flex"] div:last-child {
-      margin-top: 20px;
-    }
-  }
-</style>
 
       
 
