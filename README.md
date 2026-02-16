@@ -12,57 +12,34 @@
 
 ## 👨‍💻 About Me
 
-<div class="about-container">
-  <div class="about-text">
-    I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
-    <ul>
-      <li>Real production project experience</li>
-      <li>Clean UI & optimized backend</li>
-      <li>Always learning new stacks & tools</li>
-    </ul>
-  </div>
-  <div class="about-animation">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  </div>
+<!-- Table-based layout for GitHub README -->
+<table align="center">
+  <tr>
+    <!-- Text on the left -->
+    <td align="left" valign="top" width="500" style="padding: 10px;">
+      I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+      <ul>
+        <li>Real production project experience</li>
+        <li>Clean UI & optimized backend</li>
+        <li>Always learning new stacks & tools</li>
+      </ul>
+    </td>
+
+    <!-- Animation on the right -->
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Mobile-friendly version using <br> for spacing -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="display:none;" id="mobile-animation"/>
 </div>
 
-<style>
-  .about-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: nowrap;
-    margin: 20px 0;
-    gap: 40px;
-  }
-
-  .about-text {
-    max-width: 500px;
-    text-align: left;
-    order: 1;
-  }
-
-  .about-animation {
-    order: 2;
-  }
-
-  /* Mobile view */
-  @media (max-width: 768px) {
-    .about-container {
-      flex-direction: column;
-      gap: 20px;
-    }
-
-    .about-text, .about-animation {
-      order: initial;
-      text-align: center;
-    }
-
-    .about-animation img {
-      max-width: 80%;
-    }
-  }
-</style>
+<script>
+  // This script is ignored on GitHub, but works on browsers if needed.
+</script>
 
 ---
 
