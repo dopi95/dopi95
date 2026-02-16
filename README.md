@@ -102,10 +102,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00ffea?style=flat&logo=readme&logoColor=000000" />
   </a>
 </p>
-
----
 
 ⭐ **Check out my repositories and feel free to star them!**   
