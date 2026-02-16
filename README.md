@@ -9,14 +9,12 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-<!-- Table-based layout for GitHub README -->
 <table align="center">
   <tr>
     <!-- Text on the left -->
-    <td align="left" valign="top" width="500" style="padding: 10px;">
+    <td align="left" valign="top" width="500" style="padding:10px;">
       I’m a passionate full‑stack developer focused on building modern, scalable, and maintainable web applications using MERN stack, Next.js, and TypeScript. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
       <ul>
         <li>Real production project experience</li>
@@ -26,12 +24,15 @@
     </td>
 
     <!-- Animation on the right -->
-    <td align="center" valign="top" style="padding: 10px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    <td align="center" valign="top" style="padding:10px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:10px;"/>
     </td>
   </tr>
 </table>
 
+
+
+   
 <!-- Mobile-friendly version using <br> for spacing -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="display:none;" id="mobile-animation"/>
