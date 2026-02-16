@@ -112,13 +112,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dopi95&show_icons=true&theme=radical" />
-</p>
+![GitHub stars](https://img.shields.io/github/stars/dopi95?style=for-the-badge&color=ff69b4)
+![GitHub forks](https://img.shields.io/github/forks/dopi95?style=for-the-badge&color=ff69b4)
+![Top Language](https://img.shields.io/github/languages/top/dopi95?style=for-the-badge&color=00ffea)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
-</p>
 
 
 ---
