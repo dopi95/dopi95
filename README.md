@@ -1,10 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Elyas" alt="Typing SVG"/>
 </h1>
+
 <h3 align="center">Full-Stack Developer | MERN, Next.js & TypeScript</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile+Views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Portfolio+Views&style=flat" />
 </p>
 
 ---
@@ -38,25 +39,41 @@
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /></a>
 </p>
 
 ### 🧠 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></a>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
 </p>
 
 ### 🚀 Deployment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,render,docker,git,figma,vscode,notion&perline=8" />
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Render-5D5FEF?style=flat&logo=render&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
 </p>
 
 ---
@@ -94,11 +111,11 @@
 
 <p align="center">
   <a href="mailto:elyasyenealem@gmail.com" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/el_yas_21/" target="_blank" style="margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;" title="Portfolio">
@@ -106,4 +123,6 @@
   </a>
 </p>
 
-⭐ **Check out my repositories and feel free to star them!**   
+---
+
+⭐ **Check out my repositories and feel free to star them!**
