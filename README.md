@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Elyas" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00ffea&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Elyas;Full-Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript" />
 </h1>
 
 <h3 align="center">Full-Stack Developer | MERN, Next.js & TypeScript</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Portfolio+Views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dopi95&label=Profile+Views&style=flat&color=00ffea" />
 </p>
 
 ---
@@ -14,49 +14,61 @@
 
 <div style="
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
-  gap: 20px;
-  padding: 20px;
+  gap: 40px;
+  padding: 30px 10px;
 ">
 
+  <!-- LEFT TEXT -->
   <div style="
-    flex: 0 1 500px;
-    max-width: 500px;
-    min-width: 300px;
+    flex: 1 1 500px;
+    max-width: 600px;
+    min-width: 280px;
     text-align: left;
-    font-size: 16px;
-    line-height: 1.6;
+    font-size: 17px;
+    line-height: 1.8;
   ">
     <p>
-      I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+      I’m a passionate <strong>Full-Stack Developer</strong> who loves building modern, scalable, and high-performance web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>.
     </p>
+
+    <p>
+      I focus on writing clean code, designing smooth user experiences, and optimizing backend systems for real-world applications.
+    </p>
+
     <ul style="padding-left: 20px;">
-      <li>Real production project experience</li>
-      <li>Clean UI & optimized backend</li>
-      <li>Always learning new stacks & tools</li>
+      <li>🚀 Real-world production projects</li>
+      <li>🎨 Clean UI / UX focus</li>
+      <li>⚡ Performance & scalability mindset</li>
+      <li>📚 Always learning new technologies</li>
     </ul>
   </div>
 
+  <!-- RIGHT ANIMATION -->
   <div style="
-    flex: 0 1 300px;
-    max-width: 300px;
-    min-width: 250px;
+    flex: 1 1 350px;
+    max-width: 420px;
+    min-width: 260px;
     display: flex;
     justify-content: center;
     align-items: center;
   ">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" style="width:100%; max-width:300px; border-radius:10px;" />
+    <img 
+      src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" 
+      alt="Developer Workspace" 
+      style="
+        width: 100%;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      "
+    />
   </div>
 
 </div>
 
 ---
-
-
- ---
 
 ## ⚙️ Tech Stack & Tools
 
@@ -64,10 +76,9 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 12px;
+  gap: 14px;
 ">
 
-  <!-- Row Item -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -92,26 +103,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
 </div>
-
----
 
 ---
 
 ## 💼 Featured Projects
 
-* [KabCreativeLab.com](https://kabcreativelab.com)
-* [BiruhKidsClinic.com](https://biruhkidsclinic.com)
-* [GhionHomeSales.com](https://ghionhomessales.com)
-* [NovaStudio.et](https://novastudio.et)
+* https://kabcreativelab.com  
+* https://biruhkidsclinic.com  
+* https://ghionhomessales.com  
+* https://novastudio.et  
 
 ---
 
@@ -138,15 +139,15 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:elyasyenealem@gmail.com" target="_blank">
+  <a href="mailto:elyasyenealem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
+  <a href="https://www.instagram.com/el_yas_21/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank">
+  <a href="https://elyasyenealem.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-00ffea?style=flat&logo=readme&logoColor=000000" />
   </a>
 </p>
