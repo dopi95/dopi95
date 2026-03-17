@@ -22,7 +22,6 @@
   padding: 20px;
 ">
 
-  <!-- About Text -->
   <div style="
     flex: 0 1 500px;
     max-width: 500px;
@@ -41,7 +40,6 @@
     </ul>
   </div>
 
-  <!-- Animation GIF -->
   <div style="
     flex: 0 1 300px;
     max-width: 300px;
@@ -57,9 +55,7 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🎨 Frontend
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /></a>
@@ -68,33 +64,24 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /></a>
-</p>
-
-### 🧠 Backend
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></a>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></a>
-</p>
-
-### 🚀 Deployment & Tools
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Render-5D5FEF?style=flat&logo=render&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaFX-FF0000?style=flat&logo=java&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /></a>
 </p>
@@ -120,8 +107,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dopi95&layout=compact&theme=radical" />
 </p>
 
-
-
 ---
 
 ## 🔥 Contribution Streak
@@ -135,15 +120,15 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:elyasyenealem@gmail.com" target="_blank" style="margin: 10px;">
+  <a href="mailto:elyasyenealem@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/el_yas_21/" target="_blank" style="margin: 10px;">
+  <a href="https://www.instagram.com/el_yas_21/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank" style="margin: 10px;" title="Portfolio">
+  <a href="https://elyasyenealem.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ffea?style=flat&logo=readme&logoColor=000000" />
   </a>
 </p>
