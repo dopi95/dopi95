@@ -139,7 +139,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://elyasyenealem.netlify.app" target="_blank">
+  <a href="https://elyas.awratech.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00ffea?style=flat&logo=readme&logoColor=000000" />
   </a>
 </p>
