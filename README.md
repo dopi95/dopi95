@@ -30,8 +30,10 @@
     font-size: 16px;
     line-height: 1.6;
   ">
-    <p>
-      I’m a passionate <strong>Full-Stack Developer</strong> focused on building modern, scalable, and maintainable web applications using <strong>MERN stack</strong>, <strong>Next.js</strong>, and <strong>TypeScript</strong>. I enjoy crafting clean UI, optimizing backend performance, and continuously learning new technologies to solve real-world problems.
+    <p>I’m a passionate Full-Stack Developer and Co-Founder of Awra Tech, where we build modern, scalable web applications and have delivered multiple real-world projects. I specialize in MERN Stack, Next.js, and TypeScript, with a focus on clean UI and reliable backend systems.
+
+Co-Founder @ Awra Tech · BSc in Computer Science · BA in Business Administration & Information Systems
+📍 Addis Ababa, Ethiopia · 🌐 awratech.com
     </p>
     <ul style="padding-left: 20px;">
       <li>Real production project experience</li>
